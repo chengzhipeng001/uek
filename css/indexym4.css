@@ -1,0 +1,144 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	font-family: "苹方","微软雅黑";
+}
+.boxczp{
+	width: 100%;
+	height: 0.9rem;
+	background: #0078E6;
+	margin: 0rem auto;
+	font-size: 0.36rem;
+	color: #fff;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.boxczp img{
+	width: 0.72rem;
+	height: 0.72rem;
+}
+.boxczp-bann{
+	width: 100%;
+	height: auto;
+}
+.boxczp-banna{
+	background: url(../img/3.png) no-repeat;
+	height:4.31rem; 
+	background-size: cover;
+    background-position: center,center;
+}
+.boxczp-shouye{
+	width: 100%;
+	height: 0.8rem;
+	background: #F5F6FA;
+	margin: 0rem auto;
+	font-size: 0.2rem;
+	color: #4A4848;
+}
+.boxczp-shouye a{
+   color: #4A4848;
+   line-height: 0.8rem;
+   margin-left: 0.2rem;
+}
+.boxczp-yonghu{
+	width:100%;
+	height: 2.7rem;
+	background: #F5F6FA;
+	margin: 0rem auto; 
+}
+.boxczp-yonghu .boxczp-tiyan{
+	width: 7rem;
+	height: 2.7rem;
+	background: white;
+	margin: 0rem auto;
+	font-size: 0.18rem;
+}
+.boxczp-sheji{
+	width: 7rem;
+	height: 0.7rem;
+}
+.boxczp-top{
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #28C0FF;
+   margin-left: 0.2rem;
+   margin-top: 0.2rem;
+	float: left;
+}
+.boxczp-sheji span{
+	margin-left: 0.2rem;
+	margin-top: 0.2rem;
+	line-height: 0.6rem;
+}
+.boxczp-jiaohu{
+	width: 7rem;
+	height: 1.9rem;
+	background: white;
+	margin: 0rem auto;
+}
+.boxczp-aaa{
+	width: 0.35rem;
+	height: 1.9rem;
+	background: white;
+	float: left;
+	margin-left: 0.11rem;
+}
+.boxczp-aaa img{
+   display: block;
+	width: 0.2rem;
+	
+}
+.boxczp-you{
+  width: 6.4rem;
+  height: 1.9rem;
+  background: white;
+  float: right;
+  margin-right: 0.13rem;
+  border-bottom: 0.01rem dashed #666666;
+
+}
+.boxczp-jiaohu a{
+	display: block;
+color: #FFA636;
+text-align: center;
+margin-top: 0.2rem;
+}
+
+.boxczp-hou{
+	width: 100%;
+	height: 0.1rem;
+	background: #F5F6FA;
+	margin: 0rem auto;
+}
+.boxczp-tiaozhuan{
+	width: 100%;
+	height: 0.8rem;
+	background: white;
+	margin: 0rem auto;
+	text-align: center;
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	justify-content: left;
+	font-size: 0.18rem;
+}
+.boxczp-pen .z{
+	float: left;
+	padding-left: 0.05rem;
+	text-align: center;
+}
+.boxczp-pen img{
+   display: block;
+   height: 0.4rem;
+}
+
+.boxczp-wei{
+	 background: #F5F6FA;
+	font-size: 0.2rem;
+	text-align: center;
+	color: #666666;
+	line-height: 0.5rem;
+}

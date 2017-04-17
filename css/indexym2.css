@@ -1,0 +1,449 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	font-family:"微软雅黑","苹方"; 
+}
+
+.boxfis-one{
+	width: 100%;
+	height: 0.9rem;
+	background: #0078E6;
+	margin: 0rem auto;
+	font-size: 0.36rem;
+    text-align: center;
+    position: fixed;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.boxfis-one img{
+   width: 0.7rem;
+   height: 0.72rem;
+}
+.boxfis-bottop{
+	background: url(../img/3.png)no-repeat;
+	height: 2.8rem;
+	background-size: cover;
+	background-position:center,center; 
+}
+.boxfis-shou{
+	width: 100%;
+	height: 0.82rem;
+	background: #F5F6FA;
+	font-size: 0.18rem;
+	color: #494747;
+	line-height: 0.82rem;
+}
+.boxfis-shou a{
+  color: #494747;
+}
+a{
+	text-decoration: none;
+}
+.boxfis-ul{
+	width: 100%;
+	height: 1rem;
+	background: #F5F6FA;
+	margin: 0rem auto;
+	font-size: 0.18rem;
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.boxfis-top{
+	width: 7rem;
+	height: 0.8rem;
+	background: #F5F6FA;	
+	border-radius: 0.08rem;
+	border: 0.02rem solid #01B5FF;
+	box-sizing: border-box;
+	margin-bottom: 0.2rem;
+}
+.boxfis-top .a{
+	display: inline-block;
+	width: 33.33%;
+	height: 0.77rem;
+	background: #01B5FF;
+	border-radius: 0.06rem;
+	float: left;
+	color: white;
+	text-align: center;
+	line-height: 0.77rem;
+
+}
+.boxfis-top .a .sanjiao{
+  width:0rem;
+  border-top:0.12rem solid rgba(1, 181, 255, 1);
+  border-left: 0.10rem solid rgba(0, 0, 0, 0);
+  border-right: 0.10rem solid rgba(0, 0, 0, 0);
+  border-bottom: 0;
+  position: absolute;
+  left: 1.20rem;
+  right: 0;
+  margin-top: 0rem;
+}
+.boxfis-top .b{
+	display: block;
+	width: 33.333%;
+	float: left;
+    text-align: center;
+    line-height: 0.77rem;
+}
+.boxfis-top .c{
+	display: block;
+	width: 33.333%;
+	float: right;
+    text-align: center;
+    line-height: 0.77rem;
+}
+
+.boxfis-ddd{
+	width: 100%;
+	height: 2.8rem;
+	background: #F5F6FA;
+	margin: 0rem auto;
+ 
+}
+.boxfis-ddd .boxfis-eee{
+	width: 7rem;
+	height: 2.7rem;
+	background: white;
+	margin: 0rem auto;
+	font-size: 0.18rem;
+}
+.boxfis-ddd .boxfis-tutu img{
+   float: left;
+   display: block;
+   width: 1.8rem;
+   height: 2.3rem;
+   padding-left: 0.2rem;
+   padding-top: 0.2rem;
+}
+.boxfis-zi{
+   display: inline-block;
+   width: 3.25rem;
+   height: 2.2rem;
+   background: white;
+   padding-top: 0.4rem;
+   padding-left: 0.2rem;
+   float: left;
+}
+.boxfis-zi h2{
+	width: 1.72rem;
+	height: 0.4rem;
+	background: white;
+	font-style: normal;
+	border-bottom: 0.01rem dashed #999999;
+}
+.boxfis-zi .boxfis-shixun em{
+   font-style: normal;
+   display: inline-block;
+   color: #01B5FF;
+   margin-top: 0.01rem;
+     font-size: 0.22rem; 
+}
+.boxfis-shixun p{
+	display: block;
+	width: 3.5rem;
+	height: 1.4rem;
+	color: #666666;
+   padding-top:0.2rem;
+   font-size: 0.22rem; 
+}
+.boxfis-eee a{
+	display: block;
+	font-size: 0.22rem;
+	width: 1.5rem;
+	height: 0.5rem;
+	font-style: normal;
+	float: right;
+	color:#FF9300;
+	margin-top: 0.4rem;
+}
+.boxfis-ddd{
+	width: 100%;
+	height: 2.8rem;
+	background: #F5F6FA;
+	margin: 0rem auto;
+ 
+}
+.boxfis-ddd .boxfis-eee{
+	width: 7rem;
+	height: 2.7rem;
+	background: white;
+	margin: 0rem auto;
+	font-size: 0.18rem;
+}
+.boxfis-ddd .boxfis-tutu img{
+   float: left;
+   display: block;
+   width: 1.8rem;
+   height: 2.3rem;
+   padding-left: 0.2rem;
+   padding-top: 0.2rem;
+}
+.boxfis-zi{
+   display: inline-block;
+   width: 3.25rem;
+   height: 2.2rem;
+   background: white;
+   padding-top: 0.4rem;
+   padding-left: 0.2rem;
+   float: left;
+}
+.boxfis-zi h2{
+	width: 1.72rem;
+	height: 0.4rem;
+	background: white;
+	font-style: normal;
+	border-bottom: 0.01rem dashed #999999;
+}
+.boxfis-zi .boxfis-shixun em{
+   font-style: normal;
+   display: inline-block;
+   color: #01B5FF;
+   margin-top: 0.01rem;
+     font-size: 0.22rem; 
+}
+.boxfis-shixun p{
+	display: block;
+	width: 3.5rem;
+	height: 1.4rem;
+	color: #666666;
+   padding-top:0.2rem;
+   font-size: 0.22rem; 
+}
+.boxfis-eee a{
+	display: block;
+	font-size: 0.22rem;
+	width: 1.5rem;
+	height: 0.5rem;
+	font-style: normal;
+	float: right;
+	color:#FF9300;
+	margin-top: 0.4rem;
+}
+.boxfis-ddd{
+	width: 100%;
+	height: 2.8rem;
+	background: #F5F6FA;
+	margin: 0rem auto;
+ 
+}
+.boxfis-ddd .boxfis-eee{
+	width: 7rem;
+	height: 2.7rem;
+	background: white;
+	margin: 0rem auto;
+	font-size: 0.18rem;
+}
+.boxfis-ddd .boxfis-tutu img{
+   float: left;
+   display: block;
+   width: 1.8rem;
+   height: 2.3rem;
+   padding-left: 0.2rem;
+   padding-top: 0.2rem;
+}
+.boxfis-zi{
+   display: inline-block;
+   width: 3.25rem;
+   height: 2.2rem;
+   background: white;
+   padding-top: 0.4rem;
+   padding-left: 0.2rem;
+   float: left;
+}
+.boxfis-zi h2{
+	width: 1.72rem;
+	height: 0.4rem;
+	background: white;
+	font-style: normal;
+	border-bottom: 0.01rem dashed #999999;
+}
+.boxfis-zi .boxfis-shixun em{
+   font-style: normal;
+   display: inline-block;
+   color: #01B5FF;
+   margin-top: 0.01rem;
+     font-size: 0.22rem; 
+}
+.boxfis-shixun p{
+	display: block;
+	width: 3.5rem;
+	height: 1.4rem;
+	color: #666666;
+   padding-top:0.2rem;
+   font-size: 0.18rem; 
+}
+.boxfis-eee a{
+	display: block;
+	font-size: 0.22rem;
+	width: 1.5rem;
+	height: 0.5rem;
+	font-style: normal;
+	float: right;
+	color:#FF9300;
+	margin-top: 0.4rem;
+}
+.boxfis-ddd{
+	width: 100%;
+	height: 2.8rem;
+	background: #F5F6FA;
+	margin: 0rem auto;
+ 
+}
+.boxfis-ddd .boxfis-eee{
+	width: 7rem;
+	height: 2.7rem;
+	background: white;
+	margin: 0rem auto;
+	font-size: 0.18rem;
+}
+.boxfis-ddd .boxfis-tutu img{
+   float: left;
+   display: block;
+   width: 1.8rem;
+   height: 2.3rem;
+   padding-left: 0.2rem;
+   padding-top: 0.2rem;
+}
+.boxfis-zi{
+   display: inline-block;
+   width: 3.25rem;
+   height: 2.2rem;
+   background: white;
+   padding-top: 0.4rem;
+   padding-left: 0.2rem;
+   float: left;
+}
+.boxfis-zi h2{
+	width: 1.72rem;
+	height: 0.4rem;
+	background: white;
+	font-style: normal;
+	border-bottom: 0.01rem dashed #999999;
+}
+.boxfis-zi .boxfis-shixun em{
+   font-style: normal;
+   display: inline-block;
+   color: #01B5FF;
+   margin-top: 0.01rem;
+     font-size: 0.22rem; 
+}
+.boxfis-shixun p{
+	display: block;
+	width: 3.5rem;
+	height: 1.4rem;
+	color: #666666;
+   padding-top:0.2rem;
+   font-size: 0.22rem; 
+}
+.boxfis-eee a{
+	display: block;
+	font-size: 0.22rem;
+	width: 1.5rem;
+	height: 0.5rem;
+	font-style: normal;
+	float: right;
+	color:#FF9300;
+	margin-top: 0.4rem;
+}
+.boxfis-ddd{
+	width: 100%;
+	height: 2.8rem;
+	background: #F5F6FA;
+	margin: 0rem auto;
+ 
+}
+.boxfis-ddd .boxfis-eee{
+	width: 7rem;
+	height: 2.7rem;
+	background: white;
+	margin: 0rem auto;
+	font-size: 0.18rem;
+}
+.boxfis-ddd .boxfis-tutu img{
+   float: left;
+   display: block;
+   width: 1.8rem;
+   height: 2.3rem;
+   padding-left: 0.2rem;
+   padding-top: 0.2rem;
+}
+.boxfis-zi{
+   display: inline-block;
+   width: 3.25rem;
+   height: 2.2rem;
+   background: white;
+   padding-top: 0.4rem;
+   padding-left: 0.2rem;
+   float: left;
+}
+.boxfis-zi h2{
+	width: 1.72rem;
+	height: 0.4rem;
+	background: white;
+	font-style: normal;
+	border-bottom: 0.01rem dashed #999999;
+}
+.boxfis-zi .boxfis-shixun em{
+   font-style: normal;
+   display: inline-block;
+   color: #01B5FF;
+   margin-top: 0.01rem;
+     font-size: 0.22rem; 
+}
+.boxfis-shixun p{
+	display: block;
+	width: 3.5rem;
+	height: 1.4rem;
+	color: #666666;
+   padding-top:0.2rem;
+   font-size: 0.22rem; 
+}
+.boxfis-eee a{
+	display: block;
+	font-size: 0.22rem;
+	width: 1.5rem;
+	height: 0.5rem;
+	font-style: normal;
+	float: right;
+	color:#FF9300;
+	margin-top: 0.4rem;
+}
+.boxfis-tiaozhuan{
+	width: 100%;
+	height: 0.8rem;
+	background: white;
+	margin: 0rem auto;
+	text-align: center;
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	justify-content: left;
+	font-size: 0.18rem;
+}
+.boxfis-pen .z{
+	float: left;
+	padding-left: 0.05rem;
+	text-align: center;
+}
+.boxfis-pen img{
+   display: block;
+   height: 0.4rem;
+}
+
+.boxfis-wei{
+	width: 100%;
+	height: 1rem;
+	background: #F5F6FA;
+	font-size: 0.2rem;
+	text-align: center;
+	color: #666666;
+	line-height: 0.5rem;
+}

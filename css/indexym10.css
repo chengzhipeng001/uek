@@ -1,0 +1,383 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	font-family: "苹方","微软雅黑";
+}
+.boxyss{
+	width: 100%;
+	height: 0.9rem;
+	background: #0078E6;
+	margin: 0rem auto;
+	font-size: 0.36rem;
+	position: fixed;
+	color: #fff;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.boxyss img{
+	width: 0.72rem;
+	height: 0.72rem;
+}
+.boxyss-bann{
+	width: 100%;
+	height: auto;
+}
+.boxyss-banna{
+	background: url(../img/3.png) no-repeat;
+	height:4.31rem; 
+	background-size: cover;
+    background-position: center,center;
+}
+.boxyss-shouye{
+	width: 100%;
+	height: 0.8rem;
+	background: #F5F6FA;
+	margin: 0rem auto;
+	font-size: 0.2rem;
+	color: #4A4848;
+}
+.boxyss-shouye a{
+   color: #4A4848;
+   line-height: 0.8rem;
+   margin-left: 0.2rem;
+}
+.boxyss-guanyu{
+	width: 100%;
+	height: 7.26rem;
+	background: #F5F6FA;
+	margin: 0rem auto;
+
+}
+.boxyss-qianduan{
+	width: 7rem;
+	height: 7.26rem;
+	background: white;
+	margin: 0rem auto;
+}
+.boxyss-gongcheng{
+	width: 7rem;
+	height: 0.67rem;
+	background: white;
+   font-size: 0.2rem;
+}
+.boxyss-gongcheng .boxsj-blue{
+	display: inline-block;
+	box-sizing: border-box;
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+	margin-top: 0.33rem;
+	margin-left: 0.2rem;
+	float: left;
+}
+.boxyss-shi{
+	width: 6.42rem;
+	height: 0.68rem;
+	background: white;
+	float: right;
+	padding-top: 0.25rem;
+	border-bottom: 0.01rem dashed #999999;
+	margin-right: 0.15rem;
+}
+.boxyss-fangshi{
+   width: 7rem;
+   height: 6.57em;
+   background: white;
+
+}
+.boxyss-fangzuo{
+	width: 0.43rem;
+	height: 6.57rem;
+	background: white;
+	float: left;
+}
+.boxyss-fangyou{
+	width: 6.42rem;
+	height: 6.57rem;
+	background: white;
+	float: right;
+	margin-right: 0.15rem;
+	font-size: 0.22rem;
+}
+.boxyss-hei{
+	width: 100%;
+	height:0.1rem;
+	background: #F5F6FA; 
+}
+.boxyss-jizhi{
+	width: 100%;
+	height: 2.75rem;
+	background: #F5F6FA;
+  margin: 0rem auto;
+}
+.boxyss-koubei{
+	width: 7rem;
+	height: 2.75rem;
+	background: white;
+	margin: 0rem auto;
+}
+.boxyss-zhuzhuan{
+	width: 7rem;
+	height: 0.67rem;
+	background: white;
+   font-size: 0.2rem;
+}
+.boxyss-zhiji{
+	display: inline-block;
+	box-sizing: border-box;
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+	margin-top: 0.33rem;
+	margin-left: 0.2rem;
+	float: left;
+}
+.boxyss-beikou{
+	width: 6.42rem;
+	height: 0.68rem;
+	background: white;
+	float: right;
+	padding-top: 0.25rem;
+	border-bottom: 0.01rem dashed #999999;
+	margin-right: 0.15rem;
+}
+.boxyss-fangs{
+	width: 7rem;
+	height: 2.07rem;
+	background: white;
+}
+.boxyss-fangs li>a{
+	width:33.333%;
+	height: 2.07rem;
+	background: white;
+	float: left;
+	padding-top: 0.4rem;
+	padding-left: 0.6rem;
+}
+.boxyss-fangs img{
+	width:1.35rem;
+	display: block; 
+}
+.boxyss-zhuanzhu{
+	width: 100%;
+	height: 0.1rem;
+	background: #F5F6FA;
+}
+
+
+.boxyss-yuan{
+	width: 100%;
+	height: 0.1rem;
+	background: #F5F6FA;
+  margin: 0rem auto;
+}
+.boxyss-jing{
+	width: 100%;
+	height: 1.32rem;
+	background: #F5F6FA;
+  margin: 0rem auto;
+}
+.boxyss-zenren{
+	width: 7rem;
+	height:1.32rem;
+	background: white;
+	margin: 0rem auto;
+}
+.boxyss-jiqing{
+	width: 7rem;
+	height: 0.68rem;
+	background: white;
+   font-size: 0.2rem;
+}
+.boxyss-mengxiang{
+	display: inline-block;
+	box-sizing: border-box;
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+	margin-top: 0.33rem;
+	margin-left: 0.2rem;
+	float: left;
+}
+ .boxyss-you{
+	width: 6.42rem;
+	height: 0.59rem;
+	background: white;
+	float: right;
+	padding-top: 0.25rem;
+	border-bottom: 0.01rem dashed #999999;
+	margin-right: 0.15rem;
+}
+.quan{
+	width: 7rem;
+	height: 0.59rem;
+	background: white;
+	margin: 0rem auto;
+}
+.boxyss-wanshan{
+	width:0.42rem;
+	height:0.59rem;  
+	background: white;
+	float: left;
+} 
+.boxyss-wansha{
+	width: 6.4rem;
+	height: 0.59rem;
+	background: white;
+	line-height: 0.59rem;
+}
+
+
+
+.boxyss-mei{
+	width: 100%;
+	height: 0.1rem;
+	background: #F5F6FA;
+  margin: 0rem auto;
+}
+.boxyss-lian{
+	width: 100%;
+	height: 1.32rem;
+	background: #F5F6FA;
+  margin: 0rem auto;
+}
+.boxyss-xi{
+	width: 7rem;
+	height:1.32rem;
+	background: white;
+	margin: 0rem auto;
+}
+.boxyss-dian{
+	width: 7rem;
+	height: 0.68rem;
+	background: white;
+   font-size: 0.2rem;
+}
+.boxyss-men{
+	display: inline-block;
+	box-sizing: border-box;
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+	margin-top: 0.33rem;
+	margin-left: 0.2rem;
+	float: left;
+}
+ .boxyss-hua{
+	width: 6.42rem;
+	height: 0.59rem;
+	background: white;
+	float: right;
+	padding-top: 0.25rem;
+	border-bottom: 0.01rem dashed #999999;
+	margin-right: 0.15rem;
+}
+.bu{
+	width: 7rem;
+	height: 0.59rem;
+	background: white;
+	margin: 0rem auto;
+}
+.boxyss-zhi{
+	width:0.42rem;
+	height:0.59rem;  
+	background: white;
+	float: left;
+} 
+.boxyss-daos{
+	width: 6.4rem;
+	height: 0.59rem;
+	background: white;
+	line-height: 0.59rem;
+}
+
+
+
+
+.boxyss-wei{
+	width: 100%;
+	height: 0.1rem;
+	background: #F5F6FA;
+  margin: 0rem auto;
+}
+.boxyss-j{
+	width: 100%;
+	height:1.32rem;
+	background: #F5F6FA;
+  margin: 0rem auto;
+}
+.boxyss-z{
+	width: 7rem;
+	height:1.32rem;
+	background: white;
+	margin: 0rem auto;
+}
+.boxyss-ji{
+	width: 7rem;
+	height: 0.68rem;
+	background: white;
+   font-size: 0.2rem;
+}
+.boxyss-me{
+	display: inline-block;
+	box-sizing: border-box;
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+	margin-top: 0.33rem;
+	margin-left: 0.2rem;
+	float: left;
+}
+ .boxyss-y{
+	width: 6.42rem;
+	height: 0.59rem;
+	background: white;
+	float: right;
+	padding-top: 0.25rem;
+	border-bottom: 0.01rem dashed #999999;
+	margin-right: 0.15rem;
+}
+.qu{
+	width: 7rem;
+	height: 0.59rem;
+	background: white;
+	margin: 0rem auto;
+}
+.boxyss-wa{
+	width:0.42rem;
+	height:0.59rem;  
+	background: white;
+	float: left;
+} 
+.boxyss-w{
+	width: 6.4rem;
+	height: 0.59rem;
+	background: white;
+	line-height: 0.59rem;
+}
+.boxyss-mashang{
+	width: 100%;
+	height: 2.32rem;
+	background: #F5F6FA;
+	margin: 0rem auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.boxyss-mashang img{
+	display: block;
+	width: 1.7rem;
+
+}
+.boxyxn-big{
+	width: 100%;
+	height: 1rem;
+	background: #F5F6FA;
+	font-size: 0.2rem;
+	text-align: center;
+	color: #666666;
+	line-height: 0.5rem;
+}

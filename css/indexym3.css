@@ -1,0 +1,136 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	font-family: "苹方","微软雅黑";
+}
+.boxBont{
+	width: 100%;
+	height: 0.9rem;
+	background: #0078E6;
+	margin: 0rem auto;
+	font-size: 0.36rem;
+	position: fixed;
+	color: #fff;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.boxBont img{
+	width: 0.72rem;
+	height: 0.72rem;
+}
+.boxBont-bann{
+	width: 100%;
+	height: auto;
+}
+.boxBont-banna{
+	background: url(../img/3.png) no-repeat;
+	height:4.31rem; 
+	background-size: cover;
+    background-position: center,center;
+}
+.boxBont-shouye{
+	width: 100%;
+	height: 0.8rem;
+	background: #F5F6FA;
+	margin: 0rem auto;
+	font-size: 0.2rem;
+	color: #4A4848;
+}
+.boxBont-shouye a{
+   color: #4A4848;
+   line-height: 0.8rem;
+   margin-left: 0.2rem;
+}
+.boxBont-gaishu{
+	width: 100%;
+	height: 4.3rem;
+	background: #F5F6FA;
+	margin: 0rem auto;	
+}
+.boxBont-liu{
+	width: 7rem;
+	height: 4.1rem;
+	background: white;
+	margin: 0rem auto;
+	box-sizing: border-box;
+	overflow: hidden;
+	font-size: 0.2rem;
+}
+.boxBont-top{
+	display: inline-block;
+	width: 0.04rem;
+	height: 0.2rem;
+	background: #01B5FF;
+	margin-top: 0.3rem;
+	margin-left: 0.3rem;
+	box-sizing: border-box;
+
+}
+.boxBont-top span{
+	display: block;
+   margin-left: 0.6rem;
+   float: right;
+}
+.boxBont-bottom{	
+width: 6.43rem;
+height: 3.4rem;
+background: white;
+border-top: 0.01rem dashed #999999;
+margin: 0rem auto;
+}
+.boxBont-bottom img{
+	display: block;
+	width: 2.45rem;
+	height: 2.45rem;
+   float: left;
+   margin-top: 0.3rem;
+   margin-left: 0.2rem;
+}
+.box-Bont{
+	width: 3.6rem;
+	height: 2.45rem;
+	background: white;
+	float: right;
+	margin-top: 0.3rem;
+}
+.box-Bont li{
+  color: #01B5FF;
+}
+.box-Bont b{
+	color: #373737;
+}
+.boxBont-jianjie{
+	width: 7rem;
+	height: 4.85rem;
+	background: white;
+	margin: 0rem auto;
+	font-size: 0.2rem;
+}
+.boxBont-jianjie .boxBont-jiaoshi{
+	width: 7rem;
+	height: 0.7rem;
+	background: white;
+	margin: 0rem auto;
+}
+.boxBont-jianjie .boxBont-top span{
+    float: right;
+}
+.boxBont-java{
+	width:6.45rem;
+	height:4.20rem;
+	background: white;
+	margin: 0rem auto;
+	border-top: 0.01rem dashed #999999;
+}
+.boxBont-ban{
+	width: 100%;
+	height: 1.2rem;
+	background: #F5F6FA;
+	font-size: 0.18rem;
+	text-align: center;
+	line-height: 0.5rem;
+}
+

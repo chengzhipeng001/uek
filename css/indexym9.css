@@ -1,0 +1,128 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	font-family: "苹方","微软雅黑";
+}
+.boxyxn{
+	width: 100%;
+	height: 0.9rem;
+	background: #0078E6;
+	margin: 0rem auto;
+	font-size: 0.36rem;
+	position: fixed;
+	color: #fff;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.boxyxn img{
+	width: 0.72rem;
+	height: 0.72rem;
+}
+.boxyxn-bann{
+	width: 100%;
+	height: auto;
+}
+.boxyxn-banna{
+	background: url(../img/3.png) no-repeat;
+	height:4.31rem; 
+	background-size: cover;
+    background-position: center,center;
+}
+.boxyxn-shouye{
+	width: 100%;
+	height: 0.8rem;
+	background: #F5F6FA;
+	margin: 0rem auto;
+	font-size: 0.2rem;
+	color: #4A4848;
+}
+.boxyxn-shouye a{
+   color: #4A4848;
+   line-height: 0.8rem;
+   margin-left: 0.2rem;
+}
+.boxyxn-top{
+	width: 100%;
+	height: 1.85rem;
+	background: #F5F6FA;
+	margin: 0rem auto;
+
+}
+.boxyxn-bottom{
+	width: 7rem;
+	height: 1.85rem;
+	background: white;
+	margin: 0rem auto;
+
+}
+.boxyxn-left img{
+   float: left;
+   display: block;
+   width: 1.95rem;
+   margin-left: 0.2rem;
+   margin-top: 0.2rem;
+}
+.boxyxn-right{
+	width: 4.6rem;
+	height: 1.45rem;
+    background: white;
+    float: right;
+    margin-top: 0.3rem;
+}
+.boxyxn-right h2{
+	font-style: normal;
+}
+.boxyxn-right em{
+	font-style: normal;
+	font-size: 0.12rem;
+}
+.boxyxn-right1{
+	width: 0.85rem;
+	box-sizing: border-box;
+	border-bottom: 1px dotted black;
+	margin:0.05rem 0;
+}
+.boxyxn-right span{
+	font-style: normal;
+	font-size: 0.22rem;
+	color: #94D43B;
+}
+.boxyxn-hei{
+	width: 100%;
+	height: 0.1rem;
+	background: #F5F6FA;
+}
+.boxyxn-tiaozhuan{
+	width: 100%;
+	height: 0.8rem;
+	background: white;
+	margin: 0rem auto;
+	text-align: center;
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	justify-content: left;
+	font-size: 0.18rem;
+}
+.boxyxn-pen .z{
+	float: left;
+	padding-left: 0.05rem;
+	text-align: center;
+}
+.boxyxn-pen img{
+   display: block;
+   height: 0.4rem;
+}
+
+.boxyxn-wei{
+	width: 100%;
+	height: 1rem;
+	background: #F5F6FA;
+	font-size: 0.2rem;
+	text-align: center;
+	color: #666666;
+	line-height: 0.5rem;
+}
